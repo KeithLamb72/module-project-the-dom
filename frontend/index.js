@@ -4,7 +4,7 @@ function moduleProject1() {
   footer.textContent = `© BLOOM INSTITUTE OF TECHNOLOGY ${currentYear}`
 
   // 👇 WORK WORK BELOW THIS LINE 👇
-
+//howdy 
   // 👉 TASK 1 - Add a "widget" class name to widgets so CSS kicks in
   //  ✨ add your code here
 
